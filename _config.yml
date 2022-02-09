@@ -1,0 +1,16 @@
+---
+title: Sol-Dom
+email: biuro@sol-dom.pl
+baseurl: ''
+url: http://sol-dom.pl
+markdown: kramdown
+include: [_pages]
+sass:
+  sass_dir: css/vendor
+  style: compressed
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: default
